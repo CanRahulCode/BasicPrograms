@@ -16,3 +16,7 @@ public class Reverseofarray {
 	        System.out.print(arr[i]+" ");
 	    }
 	}
+
+    /*
+     Printing of a Revese array using scanner class.
+     */
