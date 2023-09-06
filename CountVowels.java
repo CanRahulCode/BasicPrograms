@@ -16,7 +16,7 @@ public class CountVowels {
 				}
 			}
 		return count;
-    }
+    }sc.close();
 
 }
 /*
